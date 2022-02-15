@@ -1,31 +1,27 @@
-# Código de conducta de \[LAS\] de Sistemas
+# Código de conducta para el slack de la red Code4dev 
 
 ¡Bienvenidas, bienvenidos y bienvenides!
 
-\[LAS\] de Sistemas somos una comunidad transfeminista de mujeres, lesbianas, trans, travestis y no binaries que formamos parte del ámbito de sistemas y tenemos como objetivos principales visibilizarnos, potenciarnos, capacitarnos, contenernos y transformar nuestros espacios de trabajo en lugares inclusivos.
+En la red Code4dev Tendrás la oportunidad de reunirse, intercambiar conocimientos sobre varias herramientas de código abierto y conocer proyectos exitosos ya implementados en gobiernos. Tenemos cientos de proyectos en nuestra plataforma y sabemos que hay muchos más. Estamos listos para compartir, con el objetivo de fomentar la cooperación tecnológica.
 
-Buscamos que este sea un espacio de contención, de respeto y libre de acoso para todes. En pos del empoderamiento de identidades poco representadas, decidimos no incluir hombres cis en la comunidad, a excepción de actividades explícitamente abiertas a todo público.<br>
-Somos una comunidad apartidaria, sin embargo, nos manifestamos políticamente en favor de los movimientos que defienden nuestros valores y en contra de aquellos que actúen en detrimento de los mismos.
 
 ## Alcance del Código de conducta
 
-Este Código de Conducta (en adelante CC) abarcará el comportamiento de las personas integrantes de la comunidad dentro del Slack y en cualquier ámbito virtual o presencial. Dichos ámbitos pueden ser tanto los organizados por \[LAS\] de Sistemas como aquellos que son externos pero a los que asistimos como representantes de la comunidad.<br>
-Este CC también alcanza a cualquier persona externa que asista a nuestros eventos.
+Este Código de Conducta (en adelante CC) abarcará el comportamiento de las personas integrantes de la red dentro del Slack. 
 
-Este documento está en continua revisión. Cualquier propuesta de cambio que tengas, podés crear un pull request o enviar un mensaje a cualquiera de les admins o a las cuentas oficiales de \[LAS\] de Sistemas.
+Este documento está en continua revisión. Cualquier propuesta de cambio que tengas, podés crear un pull request o enviar un mensaje a cualquiera de les admins.
 
 ## Ingreso de nuevas personas al Slack
 
-Puede ingresar al Slack cualquier persona con dedicación o interés en sistemas, ya sea laboral, académica o como pasatiempo.<br>
-Toda persona que se una al Slack deberá aceptar este CC y comprometerse a cumplirlo o de lo contrario atenerse a las [consecuencias](#consecuencias).<br>
-Pedimos que se abstengan del ingreso al Slack a aquellas personas que busquen sacar rédito de la comunidad. Por ejemplo que quieran realizar recruiting.<br>
-Recomendamos colocar en el usuario de Slack el pronombre deseado.
+Puede ingresar al Slack cualquier persona con dedicación o interés en compartir experiencias sobre tecnología de código abierto, en especial personas con potencial de ejecución de proyectos que brinden eficiencias en gobiernos de latinoamerica y el caribe. Para personas fuera de BID se enviará la invitación al correo electrónico ingresado en el fomrmulario de inscripción a la red: https://code.iadb.org/es/code4dev<br>
+Toda persona que se una al Slack deberá leer este CC y comprometerse a cumplirlo o de lo contrario atenerse a las [consecuencias](#consecuencias).<br>
+Pedimos que se abstengan del ingreso al Slack a aquellas personas que busquen sacar rédito de la comunidad. Por ejemplo que quieran solamente vender servicios sin la inteción de compartir conocimiento.<br>
 
 ## Confidencialidad
 
-Nuestra intención es que \[LAS\] de Sistemas sea un espacio seguro para quienes integramos la comunidad. Todo lo que se dice en espacios íntimos de \[LAS\] de Sistemas (Slack, juntadas, u otros eventos) debe ser confidencial. Por favor, no repitas ni cites ni difundas capturas de lo que se dice en esos ámbitos sin informar y sin conseguir consentimiento expreso ni aprobación de la/s persona/s involucrada/s.
+Nuestra intención es que nuestro slack sea un espacio seguro para quienes integramos la red. Por favor, si tienes conversaciones directas dentro de nustro slack con otros participantes de la red, no repitas ni cites ni difundas capturas de lo que se dice en esos ámbitos sin informar y sin conseguir consentimiento expreso ni aprobación de la/s persona/s involucrada/s.
 
-Sin embargo, debemos ser conscientes de que todo lo que decimos en este espacio podría hacerse público en algún momento. Si bien esperamos que todas las personas de la comunidad honren la confidencialidad de este espacio, no podemos garantizar que lo harán. Tampoco podemos garantizar que sus credenciales de acceso y dispositivos sean completamente seguros, ni evitar que se tomen capturas de pantalla. Por favor, abstenete de compartir información sensible que pudiera dañarte a vos o a otras personas si se publicara.
+Sin embargo, debemos ser conscientes de que todo lo que decimos en este espacio podría hacerse público en algún momento. Si bien esperamos que todas las personas de la red honren la confidencialidad de este espacio, no podemos garantizar que lo harán. Tampoco podemos garantizar que sus credenciales de acceso y dispositivos sean completamente seguros, ni evitar que se tomen capturas de pantalla. Por favor, abstenete de compartir información sensible que pudiera dañarte a ti o a otras personas si se publicara.
 
 ### Retención de mensajes
 
@@ -56,7 +52,7 @@ Si te están acosando, notás que otra persona está siendo acosada, ves algún 
 
 Respetaremos los pedidos de confidencialidad para proteger a las víctimas de acoso. A nuestra discreción, podríamos nombrar públicamente a una persona sobre la cual recibamos denuncias de acoso, o advertir en privado a otras personas sobre ellas. No nombraremos a las víctimas de acoso sin su consentimiento.
 
-<sup>2</sup>Para ver qué miembros de Slack son admins, entrá a https://lasdesistemas.slack.com/account/workspace-settings#admins
+<sup>2</sup>Para ver qué miembros de Slack son admins, entrá a https://bid-codigo.slack.com/account/workspace-settings#admins
 
 ## Consecuencias
 
